@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf7c12ab0a56e514dbfdfa9427fa781a, type: 3}
+  m_Name: SongData
+  m_EditorClassIdentifier: 
+  name: Moonlight Sonata
+  soundTrackEnum: 1
+  totalNote: 35
+  tempo: 500
+  file: {fileID: 8300000, guid: fc4c7898f08d53a4e9b0eed8a65488a2, type: 3}
+  fav: 0
+  id: 0
